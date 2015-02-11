@@ -1,0 +1,1 @@
+data structure day 9.27 remember to write BST remove
